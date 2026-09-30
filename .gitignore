@@ -1,0 +1,10 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Local tooling
+.idea/
+.vscode/
+*.log
