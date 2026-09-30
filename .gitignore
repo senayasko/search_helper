@@ -8,3 +8,10 @@ venv/
 .idea/
 .vscode/
 *.log
+
+# Electron / Vite output
+node_modules/
+dist/
+release/
+*.tsbuildinfo
+qa-*.png
